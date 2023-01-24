@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/lider-api
+lider-api
 package-lock.json
 yarn.lock
 
